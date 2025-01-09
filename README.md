@@ -3,21 +3,26 @@
 ### Configurando o local
 
 - Criar pasta: ```mkdir ransomware```
+  
 ![Alt text](./pasta.png "Optional title")
 
 - Criar os arquivos txt e python:
 ```touch encrypter.py``` ```touch decrypter.py``` ```touch teste.txt```
+
 ![Alt text](./arquivos.png "Optional title")
 
 ### Criptografia
 
 - Escrever os códigos e mensagem: ```nano encrypter.py``` ```nano decrypter.py``` ```nano teste.txt```
+  
 ![Alt text](./escrever.png "Optional title")
 
 - Encriptografar mensagem: ```python3 encrypter.py```
+
 ![Alt text](./encriptografar.png "Optional title")  
 
 - Descriptografar mensagem: ```python3 decrypter.py```
+
 ![Alt text](./descriptografar.png "Optional title")
 
 ### Possível erro
